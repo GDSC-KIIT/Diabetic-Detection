@@ -1,0 +1,5 @@
+﻿0 No_DR
+1 Mild
+2 Moderate
+3 Severe
+4 Poliferate_DR
