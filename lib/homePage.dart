@@ -125,7 +125,7 @@ class _HomePageState extends State<HomePage> {
 
   loadModel() async {
     await Tflite.loadModel(
-      model: "assets/model_unquant.tflite",
+      model: "assets/custom_model.tflite",
       labels: "assets/labels.txt",
     );
   }
