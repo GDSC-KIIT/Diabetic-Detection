@@ -47,6 +47,7 @@ flutter:
   assets:
    - assets/tflite/labels.txt
    - assets/tflite/custom_model.tflite
+   - assets/tflite/model_unquant.tflite
    - assets/images/splashScreen.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
